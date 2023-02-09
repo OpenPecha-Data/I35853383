@@ -1,0 +1,16 @@
+id: I35853383
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:11:45.021411
+last_modified: 2023-02-10 00:11:45.021896
+source_metadata:
+  title: 'MSV 6,00: Uttaragrantha 2'
+  language: bo
+bases:
+  071C:
+    base_file: 071C.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
